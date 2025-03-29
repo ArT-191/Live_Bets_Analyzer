@@ -1,0 +1,10 @@
+version: "3.9"
+services:
+  live-bets-api:
+    build: .
+    ports:
+      - "7100:7100"
+    volumes:
+      - .:/app
+    restart: always
+
