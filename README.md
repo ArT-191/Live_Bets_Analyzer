@@ -17,6 +17,14 @@
 - Docker / Docker Compose для быстрой сборки
 - Pytest тесты
 
+## 📥 Установка
+
+Склонируйте репозиторий:
+
+```bash
+git clone git@github.com:ArT-191/Live_Bets_Analyzer.git
+cd Live_Bets_Analyzer
+
 ## 🚀 Запуск
 
 ### Через Docker
